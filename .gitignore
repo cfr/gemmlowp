@@ -6,5 +6,5 @@
 ??
 *binary*
 /.idea/
-CMakeLists.txt
 /bazel-*
+build
